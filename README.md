@@ -1,3 +1,3 @@
 # FormAuth
 Form Based Authentication.
-This is example of Form Based Authentication
+This is an example of Form Based Authentication
